@@ -96,12 +96,15 @@ buttons = [
      ],
     [
         InlineKeyboardButton(
-            text="Aᴅᴅ Mᴇ ᴛᴏ Yᴏᴜʀ Gʀᴏᴜᴘ",
+            text="🍷Aᴅᴅ ᴍᴇ ᴍᴏɪ ʟᴜᴠ🍷",
             url=f"https://t.me/{dispatcher.bot.username}?startgroup=true",
         ),
     ],
     [
-        InlineKeyboardButton(text="📚 ʜᴇʟᴘ ᴀɴᴅ ᴄᴏᴍᴍᴀɴᴅs", callback_data="Main_help"),
+        InlineKeyboardButton(text="📚 ʜᴇʟᴘ ᴀɴᴅ ᴄᴏᴍᴍᴀɴᴅs 📚", callback_data="Main_help"),
+    ],
+    [
+        InlineKeyboardButton(text="🌿Oᴡɴᴇʀ🌿", url=f"https://t.me/ALONE_WAS_BOT"),
     ],
     
 
