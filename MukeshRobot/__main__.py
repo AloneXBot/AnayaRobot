@@ -90,7 +90,7 @@ buttons = [
     [
         InlineKeyboardButton(text="🏡", callback_data="mukesh_back"),
         InlineKeyboardButton(text="🛡️", callback_data="mukesh_"),
-        InlineKeyboardButton(text="💳", callback_data="source_"),
+        InlineKeyboardButton(text="💳", url="https://github.com/TeamAloneOp/AloneRobot/fork"),
         InlineKeyboardButton(text="🧑‍💻", url=f"tg://user?id={OWNER_ID}"),
         InlineKeyboardButton(text="🖥️", callback_data="Main_help"),
      ],
@@ -307,7 +307,7 @@ def help_button(update, context):
 
     print(query.message.chat.id)
 
-    try:
+    try: 
         if mod_match:
             module = mod_match.group(1)
             text = (
@@ -383,7 +383,7 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
                     [
         InlineKeyboardButton(text="🏡", callback_data="mukesh_back"),
         InlineKeyboardButton(text="🛡️", callback_data="mukesh_"),
-        InlineKeyboardButton(text="💳", callback_data="source_"),
+        InlineKeyboardButton(text="💳", url="https://github.com/TeamAloneOp/AloneRobot/fork"),
         InlineKeyboardButton(text="🧑‍💻", url=f"tg://user?id={OWNER_ID}"),
         InlineKeyboardButton(text="🖥️", callback_data="Main_help"),
      ],
@@ -418,7 +418,7 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
                     [
         InlineKeyboardButton(text="🏡", callback_data="mukesh_back"),
         InlineKeyboardButton(text="🛡️", callback_data="mukesh_"),
-        InlineKeyboardButton(text="💳", url="https://github.com/TeamAloneOp/AloneRobot/fork"
+        InlineKeyboardButton(text="💳", url="https://github.com/TeamAloneOp/AloneRobot/fork"),
         InlineKeyboardButton(text="🧑‍💻", url=f"tg://user?id={OWNER_ID}"),
         InlineKeyboardButton(text="🖥️", callback_data="Main_help"),
      ],
@@ -590,7 +590,7 @@ Yᴏᴜ ᴄᴀɴ ʜᴇʟᴘ ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴡɪᴛʜ 
                 [ [
         InlineKeyboardButton(text="🏡", callback_data="mukesh_back"),
         InlineKeyboardButton(text="🛡️", callback_data="mukesh_"),
-        InlineKeyboardButton(text="💳", url="https://github.com/TeamAloneOp/AloneRobot/fork"
+        InlineKeyboardButton(text="💳", url="https://github.com/TeamAloneOp/AloneRobot/fork"),
         InlineKeyboardButton(text="🕹️", url=f"tg://user?id={OWNER_ID}"),
         InlineKeyboardButton(text="🖥️", callback_data="Main_help"),
      ],
@@ -630,7 +630,7 @@ def Source_about_callback(update: Update, context: CallbackContext):
                  [
         InlineKeyboardButton(text="🏡", callback_data="mukesh_back"),
         InlineKeyboardButton(text="🛡️", callback_data="mukesh_"),
-        InlineKeyboardButton(text="💳", url="https://github.com/TeamAloneOp/AloneRobot/fork"
+        InlineKeyboardButton(text="💳", url="https://github.com/TeamAloneOp/AloneRobot/fork"),
         InlineKeyboardButton(text="🕹️", url=f"tg://user?id={OWNER_ID}"),
         InlineKeyboardButton(text="🖥️", callback_data="Main_help"),
      ],[InlineKeyboardButton(text="◁", callback_data="source_back")]]
@@ -660,7 +660,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
                     [
         InlineKeyboardButton(text="🏡", callback_data="mukesh_back"),
         InlineKeyboardButton(text="🛡️", callback_data="mukesh_"),
-        InlineKeyboardButton(text="💳", url="https://github.com/TeamAloneOp/AloneRobot/fork"
+        InlineKeyboardButton(text="💳", url="https://github.com/TeamAloneOp/AloneRobot/fork"),
         InlineKeyboardButton(text="🕹️", url=f"tg://user?id={OWNER_ID}"),
         InlineKeyboardButton(text="🖥️", callback_data="Main_help"),
      ],
