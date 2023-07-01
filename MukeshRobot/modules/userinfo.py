@@ -323,7 +323,7 @@ def info(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                "ʜᴇᴀʟᴛʜ", url=f"https://t.me/AlonesBots"
+                                "ʜᴇᴀʟᴛʜ", url=f"https://t.me/AloneXBots"
                             ),
                             InlineKeyboardButton(
                                 "Dɪsᴀsᴛᴇʀ", url="https://t.me/AlonesHeaven"
@@ -349,7 +349,7 @@ def info(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                "ʜᴇᴀʟᴛʜ", url="https://t.me/AlonesBots"
+                                "ʜᴇᴀʟᴛʜ", url="https://t.me/AloneXBots"
                             ),
                             InlineKeyboardButton(
                                 "ᴅɪsᴀsᴛᴇʀ", url="https://t.me/AlonesHeaven"
