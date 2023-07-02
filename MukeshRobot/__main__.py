@@ -75,7 +75,7 @@ PM_START_TEX = """
 
 
 PM_START_TEXT = """ 
-*Hᴇʟʟᴏ {} * [!](https://telegra.ph//file/9e8ce3092848a1bc5d9d6.jpg)
+*Hᴇʟʟᴏ {} * [!](https://te.legra.ph/file/4412176d76f2fbdbce02a.jpg)
 ───────────────────────
 × *I'ᴍ Aɴɪᴍᴇ-Tʜᴇᴍᴇ Gʀᴏᴜᴘ Mᴀɴᴀɢᴇᴍᴇɴᴛ Bᴏᴛ*
 × *I'ᴍ Vᴇʀʏ Fᴀꜱᴛ Aɴᴅ Mᴏʀᴇ Eꜰꜰɪᴄɪᴇɴᴛ I Pʀᴏᴠɪᴅᴇ Aᴡᴇꜱᴏᴍᴇ Fᴇᴀᴛᴜʀᴇꜱ!*
