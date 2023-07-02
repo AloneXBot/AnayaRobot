@@ -75,13 +75,7 @@ PM_START_TEX = """
 
 
 PM_START_TEXT = """ 
-*Hᴇʟʟᴏ {} * [!]"https://te.legra.ph/file/54d5cd0e7e8c9759d9077.jpg",
-              "https://te.legra.ph/file/50fe3b2686507ae399fe3.jpg",
-              "https://te.legra.ph/file/c633abc96616df859cd36.jpg",
-              "https://te.legra.ph/file/5fda99be4a14f20dfcff5.jpg",
-              "https://te.legra.ph/file/b1089e90bd341e5942831.jpg",
-              "https://te.legra.ph/file/af7997625692d5f72138e.jpg",
-              "https://telegra.ph/file/bf7c257498490c5307efa.jpg",
+*Hᴇʟʟᴏ {} * [!](https://te.legra.ph/file/c633abc96616df859cd36.jpg)
 ───────────────────────
 × *I'ᴍ Aɴɪᴍᴇ-Tʜᴇᴍᴇ Gʀᴏᴜᴘ Mᴀɴᴀɢᴇᴍᴇɴᴛ Bᴏᴛ*
 × *I'ᴍ Vᴇʀʏ Fᴀꜱᴛ Aɴᴅ Mᴏʀᴇ Eꜰꜰɪᴄɪᴇɴᴛ I Pʀᴏᴠɪᴅᴇ Aᴡᴇꜱᴏᴍᴇ Fᴇᴀᴛᴜʀᴇꜱ!*
