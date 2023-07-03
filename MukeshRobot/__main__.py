@@ -75,7 +75,7 @@ PM_START_TEX = """
 
 
 PM_START_TEXT = """ 
-*Hᴇʟʟᴏ {} * [!](https://te.legra.ph/file/c633abc96616df859cd36.jpg)
+*Hᴇʟʟᴏ {} * [!](https://te.legra.ph/file/5b5ece807a774efbc25e0.jpg)
 ───────────────────────
 × *I'ᴍ Aɴɪᴍᴇ-Tʜᴇᴍᴇ Gʀᴏᴜᴘ Mᴀɴᴀɢᴇᴍᴇɴᴛ Bᴏᴛ*
 × *I'ᴍ Vᴇʀʏ Fᴀꜱᴛ Aɴᴅ Mᴏʀᴇ Eꜰꜰɪᴄɪᴇɴᴛ I Pʀᴏᴠɪᴅᴇ Aᴡᴇꜱᴏᴍᴇ Fᴇᴀᴛᴜʀᴇꜱ!*
@@ -83,7 +83,7 @@ PM_START_TEXT = """
 × *Gʀᴏᴜᴩ Mᴀɴᴀɢᴇᴍᴇɴᴛ
 × *Pʟᴀʏ Mᴜsɪᴄ
 
-☆...................𝙰𝙻𝙾𝙽𝙴..................☆ 
+☆...................𝚅𝙸𝚁𝙰𝙽𝚈𝙰..................☆ 
 """
 
 buttons = [
@@ -104,7 +104,7 @@ buttons = [
         InlineKeyboardButton(text="📚 ʜᴇʟᴘ ᴀɴᴅ ᴄᴏᴍᴍᴀɴᴅs 📚", callback_data="Main_help"),
     ],
     [
-        InlineKeyboardButton(text="🌿Oᴡɴᴇʀ🌿", url=f"https://t.me/ALONE_WAS_BOT"),
+        InlineKeyboardButton(text="🌿Oᴡɴᴇʀ🌿", url=f"tg://user?id={OWNER_ID}"),
     ],
     
 
